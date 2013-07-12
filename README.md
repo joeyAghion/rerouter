@@ -4,7 +4,7 @@ A minimal, rack-based domain-redirecter. Generates 301 redirects from a set of s
 
 ## Steps for setting up your own rerouter on Heroku:
 
-    git clone git@github.com:joeyAghion/rerouter.git
+    git clone https://github.com/joeyAghion/rerouter.git
     cd rerouter
     gem install heroku
     heroku apps:create
